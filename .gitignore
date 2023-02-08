@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-seattle/data/labels.geojson
+seattle/data/all.json
