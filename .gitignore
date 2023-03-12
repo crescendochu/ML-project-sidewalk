@@ -1,7 +1,9 @@
 seattle/data/labels.geojson
 .ipynb_checkpoints/
+_archive/
 seattle/temp.ipynb
 seattle/_archive/
 seattle/data/_archive
 seattle/data/source/all_attributes_new.json
 seattle/data/source/labels-with-tags-chu.csv
+oradell/_archive/
